@@ -13,6 +13,7 @@
     <module>jobs/process/simple_0.1</module>
     <module>jobs/routes/simple_route_0.1</module>
     <module>code/beans</module>
+    <module>jobs/routes/demo_api_0.1</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
