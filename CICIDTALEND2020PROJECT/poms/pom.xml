@@ -9,18 +9,18 @@
   <name>CICIDTALEND2020PROJECT Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
-    <module>code/routines</module>
     <module>jobs/process/simple_0.1</module>
-    <module>jobs/routes/simple_route_0.1</module>
-    <module>code/beans</module>
     <module>jobs/routes/demo_api_0.1</module>
+    <module>jobs/routes/simple_route_0.1</module>
+    <module>code/routines</module>
+    <module>code/beans</module>
   </modules>
   <properties>
-    <signer.version>7.3.1</signer.version>
     <talend.project.name>CICIDTALEND2020PROJECT</talend.project.name>
+    <signer.version>7.3.1</signer.version>
     <encoding>UTF-8</encoding>
-    <talend.docker.tag>${project.version}</talend.docker.tag>
     <maven.deploy.skip>true</maven.deploy.skip>
+    <talend.docker.tag>${project.version}</talend.docker.tag>
     <talend.docker.name>${talend.project.name.lowercase}/${talend.job.folder}%a</talend.docker.name>
   </properties>
   <build>
