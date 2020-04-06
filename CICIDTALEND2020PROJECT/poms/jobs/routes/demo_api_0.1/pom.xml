@@ -40,6 +40,11 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
+      <artifactId>camel-bean-validator-alldep-2.23.1</artifactId>
+      <version>2.23.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
       <artifactId>camel-blueprint-2.23.1</artifactId>
       <version>6.0.0</version>
     </dependency>
