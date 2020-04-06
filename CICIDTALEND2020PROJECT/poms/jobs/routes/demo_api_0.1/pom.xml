@@ -33,7 +33,7 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
-      <artifactId>camel-bean-validator-alldep-2.23.1</artifactId>
+      <artifactId>camel-bean-validator-alldep-2.23.1-6.0.0</artifactId>
       <version>6.0.0</version>
     </dependency>
     <dependency>
@@ -83,7 +83,7 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
-      <artifactId>camel-jackson-alldep-2.23.1</artifactId>
+      <artifactId>camel-jackson-alldep-2.24.2-6.0.0</artifactId>
       <version>6.0.0</version>
     </dependency>
     <dependency>
