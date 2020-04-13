@@ -48,11 +48,6 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
-      <artifactId>camel-core-2.23.1</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
       <artifactId>camel-core-2.23.1-6.0.0</artifactId>
       <version>6.0.0</version>
     </dependency>
@@ -65,11 +60,6 @@
       <groupId>org.talend.libraries</groupId>
       <artifactId>camel-cxf-2.23.1</artifactId>
       <version>6.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>camel-cxf-2.23.1</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
@@ -104,11 +94,6 @@
     <dependency>
       <groupId>org.talend.libraries</groupId>
       <artifactId>camel-spring-2.23.1</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>camel-spring-2.23.1</artifactId>
       <version>6.0.0</version>
     </dependency>
     <dependency>
@@ -135,11 +120,6 @@
       <groupId>org.apache.cxf</groupId>
       <artifactId>cxf-core</artifactId>
       <version>3.3.1</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>cxf-core-3.3.1</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.apache.cxf</groupId>
@@ -383,11 +363,6 @@
       <groupId>org.talend.libraries</groupId>
       <artifactId>spring-context-5.1.4.RELEASE</artifactId>
       <version>6.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>spring-context-5.1.4.RELEASE</artifactId>
-      <version>6.0.0-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
